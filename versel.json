@@ -1,0 +1,20 @@
+{
+  "headers": [
+    {
+      "source": "/.well-known/apple-app-site-association",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/json"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/.well-known/apple-app-site-association",
+      "destination": "/",
+      "statusCode": 302
+    }
+  ]
+}
