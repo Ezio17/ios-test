@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "VKW5E9Z83B.pl.tickets.avia",
+        "paths": ["*"]
+      }
+    ]
+  }
+}

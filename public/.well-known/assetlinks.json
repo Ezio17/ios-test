@@ -1,0 +1,15 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "pl.tickets.avia",
+      "sha256_cert_fingerprints": [
+        "1A:ED:FD:B5:19:8D:EE:BE:ED:51:77:48:82:EC:38:62:72:E2:B1:AB:F9:49:86:B2:A8:F8:15:61:F6:8D:71:64",
+        "F2:6A:C0:CD:A4:B9:27:99:44:B1:17:26:C0:BF:F9:1B:18:A1:A1:FB:8A:ED:2F:CC:64:89:8D:E7:14:1D:52:90",
+        "51:1E:B3:CD:FC:ED:43:0C:EB:EC:E4:E5:2B:BF:38:CC:55:23:C3:E4:71:AD:34:4D:66:3F:E2:EB:C4:9E:5C:16",
+        "B5:58:49:EA:D1:44:C2:F0:72:98:EA:65:79:67:96:F2:EE:D0:EE:6F:C4:B6:B1:05:6C:6E:43:B8:C4:17:0B:13"
+      ]
+    }
+  }
+]
