@@ -9,5 +9,12 @@
         }
       ]
     }
+  ],
+  "redirects": [
+    {
+      "source": "/.well-known/apple-app-site-association",
+      "destination": "/",
+      "statusCode": 302
+    }
   ]
 }
